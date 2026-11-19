@@ -1,0 +1,5 @@
+---
+- name: test
+  ansible.builtin.shell: ping www.google.com
+...
+    
